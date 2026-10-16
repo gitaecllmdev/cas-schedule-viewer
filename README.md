@@ -1,0 +1,5 @@
+# CAS Project Schedule Dashboard
+
+Standalone model schedule viewer for the Wilton Hotel: 3D, a floor sheet and the P6 Gantt together, opening on the project start date. The model shows the schedule on any date: walls take the color of the drywall/framing activity started by then (stages named by the schedule itself); other work stays ghosted. Timeline slider and Gantt playhead, Play, Excel-style column filters, floors apart with per-floor schedule share, hover and panel properties, model browser, Calendar and three-week lookahead. Sample setup previews (Revit, cost, labour) use sample records only; no external system sync. The schedule is synthetic and linked to actual model levels. Browser-local edits; read-only model. No other tools are included. Internal demonstration only; all rights reserved by Component Assembly Systems, Inc. Visit analytics is deferred.
+
+GitHub Pages: deploy main branch, root folder. Uses the existing server-held read-only APS token service. No credentials, client schedule or server write routes are packaged.
