@@ -1,1 +1,1 @@
-export const CONFIG={mode:'static',tokenUrl:"https://cas-bim-token.karthikeya-civ.workers.dev",publicUrl:"https://gitaecllmdev.github.io/cas-schedule-viewer/",stateUrl:'',hitsUrl:'',build:"3abfb4e87496"};
+export const CONFIG={mode:'static',tokenUrl:"https://cas-bim-token.karthikeya-civ.workers.dev",publicUrl:"https://gitaecllmdev.github.io/cas-schedule-viewer/",stateUrl:'',hitsUrl:'',build:"3e3bb1720ea1"};
